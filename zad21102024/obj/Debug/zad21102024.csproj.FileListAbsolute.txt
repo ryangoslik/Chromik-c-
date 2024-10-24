@@ -1,0 +1,7 @@
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\bin\Debug\zad21102024.exe.config
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\bin\Debug\zad21102024.exe
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\bin\Debug\zad21102024.pdb
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\obj\Debug\zad21102024.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\obj\Debug\zad21102024.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\obj\Debug\zad21102024.exe
+C:\Users\Programista\Desktop\3ctkab\Chromik-c-\zad21102024\obj\Debug\zad21102024.pdb
